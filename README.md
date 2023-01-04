@@ -1,4 +1,4 @@
-#Welcome to this Credit Score Classification Project
+# Welcome to this Credit Score Classification Project
 
 In this project, we aimed to build machine learning models for a credit scores classification dataset. The dataset is downloaded from https://www.kaggle.com/datasets/clkmuhammed/creditscoreclassification. It is separated as training dataset and testing dataset already, and the training dataset will be used for training machine learning models. The training dataset contains credit score (Poor, Standard, Good), the target variable, and other features of the person like occupation, income, number of bank accounts, payment behaviour, etc. 
 
