@@ -1,0 +1,49 @@
+Model,Scaler,Selection Method,Accuracy Score
+Random forest,StandardScaler,Variance Selection Method,0.81664
+Random forest,MinMaxScaler,KBest Selection Method,0.81596
+Random forest,RobustScaler,KBest Selection Method,0.81572
+Random forest,MinMaxScaler,Variance Selection Method,0.81524
+Random forest,RobustScaler,Variance Selection Method,0.81488
+Random forest,StandardScaler,KBest Selection Method,0.81424
+XGBoost,RobustScaler,Variance Selection Method,0.77252
+XGBoost,MinMaxScaler,Variance Selection Method,0.77252
+XGBoost,StandardScaler,Variance Selection Method,0.77252
+XGBoost,MinMaxScaler,KBest Selection Method,0.77108
+XGBoost,RobustScaler,KBest Selection Method,0.77104
+XGBoost,StandardScaler,KBest Selection Method,0.77104
+KNN,RobustScaler,KBest Selection Method,0.74012
+KNN,RobustScaler,Variance Selection Method,0.72888
+Decision Tree,RobustScaler,Variance Selection Method,0.70608
+Decision Tree,RobustScaler,KBest Selection Method,0.70608
+Decision Tree,MinMaxScaler,KBest Selection Method,0.70608
+Decision Tree,MinMaxScaler,Variance Selection Method,0.70608
+Decision Tree,StandardScaler,Variance Selection Method,0.70608
+Decision Tree,StandardScaler,KBest Selection Method,0.70608
+KNN,MinMaxScaler,KBest Selection Method,0.6992
+KNN,StandardScaler,KBest Selection Method,0.69584
+KNN,MinMaxScaler,Variance Selection Method,0.68872
+KNN,StandardScaler,Variance Selection Method,0.68292
+Logistic Regression,MinMaxScaler,KBest Selection Method,0.66088
+Logistic Regression,StandardScaler,KBest Selection Method,0.66056
+Logistic Regression,RobustScaler,KBest Selection Method,0.66052
+Logistic Regression,StandardScaler,Variance Selection Method,0.66052
+Logistic Regression,MinMaxScaler,Variance Selection Method,0.66044
+Logistic Regression,RobustScaler,Variance Selection Method,0.6604
+Linear SVC,MinMaxScaler,Variance Selection Method,0.65976
+Linear SVC,RobustScaler,Variance Selection Method,0.65972
+Linear SVC,RobustScaler,KBest Selection Method,0.65972
+Linear SVC,StandardScaler,KBest Selection Method,0.65968
+Linear SVC,StandardScaler,Variance Selection Method,0.65968
+Linear SVC,MinMaxScaler,KBest Selection Method,0.6596
+Naive Bayes,RobustScaler,Variance Selection Method,0.6518
+Naive Bayes,MinMaxScaler,Variance Selection Method,0.6518
+Naive Bayes,StandardScaler,Variance Selection Method,0.6518
+Naive Bayes,RobustScaler,KBest Selection Method,0.65156
+Naive Bayes,MinMaxScaler,KBest Selection Method,0.65156
+Naive Bayes,StandardScaler,KBest Selection Method,0.65156
+AdaBoost,MinMaxScaler,Variance Selection Method,0.64144
+AdaBoost,StandardScaler,KBest Selection Method,0.64144
+AdaBoost,MinMaxScaler,KBest Selection Method,0.64144
+AdaBoost,RobustScaler,KBest Selection Method,0.64144
+AdaBoost,StandardScaler,Variance Selection Method,0.64144
+AdaBoost,RobustScaler,Variance Selection Method,0.64144
